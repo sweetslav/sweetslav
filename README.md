@@ -38,7 +38,7 @@
 
 **Результат:** Сотни часов сэкономленного времени и возможность принимать решения на основе актуальных данных каждое утро.
 
-[Ссылка на проект (если выложишь код на GitHub, добавь сюда ссылку)]
+- [Ссылка на проект](https://github.com/sweetslav/wb-parser)
 
 ---
 
@@ -56,7 +56,7 @@
    - [Ссылка на проект](https://github.com/sweetslav/task-manager-api)
 
 4. **Wildberries Data Parser (Google Apps Script)** — текущий рабочий проект по автоматизации аналитики.
-   - [Ссылка на проект](https://github.com/sweetslav/wb-parser) — *(добавь, если выложишь код)*
+   - [Ссылка на проект](https://github.com/sweetslav/wb-parser)
 
 ## Навыки
 
