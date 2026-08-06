@@ -1,4 +1,13 @@
-<h1 align="center">Hi there, I'm Sweetslav! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=3000&pause=500&color=000000&center=true&vCenter=true&multiline=true&random=false&width=950&lines=Analytics+%26+Automation+Engineer;Google+Apps+Script+%7C+Python+%7C+API+Integration" alt="Typing SVG 🇷🇺" /></a> </p>
+<h1 align="center">Hi there, I'm Sweetslav! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=&duration=1500&pause=150&color=000000&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Analytics+%26+Automation+Engineer;Google+Apps+Script+%7C+Python+%7C+API+Integration" 
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 ---
 
