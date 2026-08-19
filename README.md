@@ -129,7 +129,7 @@ Google Apps Script • Wildberries API • Google Sheets API
 📧 Email: **t1ksy@mail.ru**
 
 💼 HeadHunter:
-https://spb.hh.ru/resume/f6aa7f42ff0d2e25f50039ed1f796f684e3743
+
 
 📱 Telegram:
 **[@[sweet_as_love](https://t.me/sweet_as_love1)](https://t.me/sweet_as_love1)**
